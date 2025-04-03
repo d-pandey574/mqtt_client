@@ -6,7 +6,7 @@ from serial import SerialException
 import time
 import struct
 import click
-
+//////////////
 from serial.tools.list_ports import comports
 
 try:
